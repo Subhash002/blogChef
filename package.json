@@ -28,5 +28,8 @@
     "morgan": "^1.10.0",
     "pug": "^2.0.4",
     "redis": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
